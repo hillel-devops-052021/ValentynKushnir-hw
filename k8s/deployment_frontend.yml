@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
         - name: fe-realworld
-          image: walik007/hillel-frontend:0.0.3
+          image: walik007/hillel-frontend:0.0.4
           env:
           - name: REACT_APP_BACKEND_URL
             value: "http://backend.realworld.local.io/api"
