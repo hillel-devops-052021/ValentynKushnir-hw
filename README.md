@@ -13,3 +13,4 @@ k8s hometask milestones:
 9. built new FE image and pushed to docker hub
 10.created FE and BE deployment files
 11.added CSI addon
+12.created PVC and statefulset for mongo
