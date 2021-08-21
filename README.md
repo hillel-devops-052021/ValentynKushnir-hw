@@ -15,3 +15,4 @@ k8s hometask milestones:
 11.added CSI addon
 12.created PVC and statefulset for mongo
 13.edited statefulset_mongo.yml file and created statefulset
+14.created svc_mongo.yml and created mongo service
