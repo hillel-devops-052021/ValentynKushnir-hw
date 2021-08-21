@@ -2,28 +2,28 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-name: fe-realworld
-labels:
+  name: fe-realworld
+  labels:
     app: realworld
     type: frontend
 spec:
-replicas: 2
-selector:
+  replicas: 2
+  selector:
     matchLabels:
-        app: realworld
-        type: frontend
-template:
+      app: realworld
+      type: frontend
+  template:
     metadata:
-    labels:
+      labels:
         app: realworld
         type: frontend
     spec:
-    containers:
-    - name: fe-realworld
-        image: walik007/hillel-frontend:0.0.3
-        env:
-        - name: REACT_APP_BACKEND_URL
-        value: "http://backend.realworld.local.io/api"
-        ports:
-        - containerPort: 4100
-        imagePullPolicy: Always
+      containers:
+        - name: fe-realworld
+          image: walik007/hillel-frontend:0.0.3
+          env:
+          - name: REACT_APP_BACKEND_URL
+            value: "http://backend.realworld.local.io/api"
+          ports:
+            - containerPort: 4100
+          imagePullPolicy: Always
