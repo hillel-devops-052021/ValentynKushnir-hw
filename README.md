@@ -20,3 +20,4 @@ k8s hometask milestones:
 16.formatted deployment_frontend.yml and created frontend deployment
 17.added ingress
 18.created service files for FE and BE, also created k8s services for these two
+19.added ingresses manifests for FE and BE, and created ingresses themselves
