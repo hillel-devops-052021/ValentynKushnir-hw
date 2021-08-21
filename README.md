@@ -11,3 +11,4 @@ k8s hometask milestones:
 7. copied previous project from root to k8s directory
 8. renamed old FE Dockerfile and created new Dockerfile
 9. built new FE image and pushed to docker hub
+10.created FE and BE deployment files
