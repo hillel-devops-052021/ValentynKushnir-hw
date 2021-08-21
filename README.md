@@ -14,3 +14,4 @@ k8s hometask milestones:
 10.created FE and BE deployment files
 11.added CSI addon
 12.created PVC and statefulset for mongo
+13.edited statefulset_mongo.yml file and created statefulset
