@@ -18,3 +18,4 @@ k8s hometask milestones:
 14.created svc_mongo.yml and created mongo service
 15.formatted deployment_backend.yml and created backend deployment
 16.formatted deployment_frontend.yml and created frontend deployment
+17.added ingress
