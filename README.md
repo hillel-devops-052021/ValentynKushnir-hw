@@ -21,3 +21,4 @@ k8s hometask milestones:
 17.added ingress
 18.created service files for FE and BE, also created k8s services for these two
 19.added ingresses manifests for FE and BE, and created ingresses themselves
+20.added service,deployment and ingress for mongo admin access
