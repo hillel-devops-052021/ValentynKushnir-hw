@@ -34,3 +34,4 @@ k8s hometask-02 milestones:
 7. created k8s ingredients deployment, service, ingress for frontend
 8. added backend and frontend dependencies in Chart.yaml file
 9. removed automatically added .tgz archives
+10.added dependency on mongo to backend Chart.yaml
