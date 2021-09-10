@@ -1,6 +1,6 @@
 # valetnynkushnir-hw
 
-k8s hometask milestones:
+k8s hometask-01 milestones:
 1. installed Hyper-Kit on my MacOS computer
 2. installed the latest kubectl (version 1.21.2)
 3. spinned up two clusters ("first-cluster" and "second-cluster")
@@ -23,3 +23,5 @@ k8s hometask milestones:
 19.added ingresses manifests for FE and BE, and created ingresses themselves
 20.added service,deployment and ingress for mongo admin access
 21.changed API_ROOT to read from environment varialbe
+
+k8s hometask-02 milestones:
