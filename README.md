@@ -25,3 +25,5 @@ k8s hometask-01 milestones:
 21.changed API_ROOT to read from environment varialbe
 
 k8s hometask-02 milestones:
+1. installed ingress and csi addons
+2. copied mongo manifests under /templates directory
