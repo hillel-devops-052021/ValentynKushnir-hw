@@ -38,3 +38,4 @@ k8s hometask-02 milestones:
 11.added dependency on mongo to realworld Chart.yaml
 12.rebuild dependencies of realworld Chart
 13.rerun whole application using the single realworld chart
+14.added value.yml file to root
