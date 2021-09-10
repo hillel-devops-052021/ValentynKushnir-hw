@@ -30,3 +30,7 @@ k8s hometask-02 milestones:
 3. created k8s ingredients pv, pvs, pods for mongo, upgraded release
 4. copied backend manifests under realworld-be/templates directory
 5. created k8s ingredients deployment, service, ingress for backend
+6. copied frontend manifests under realworld-fe/templates directory
+7. created k8s ingredients deployment, service, ingress for frontend
+8. added backend and frontend dependencies in Chart.yaml file
+
