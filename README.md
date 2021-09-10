@@ -26,5 +26,7 @@ k8s hometask-01 milestones:
 
 k8s hometask-02 milestones:
 1. installed ingress and csi addons
-2. copied mongo manifests under /templates directory
+2. copied mongo manifests under mongo/templates directory
 3. created k8s ingredients pv, pvs, pods for mongo, upgraded release
+4. copied backend manifests under realworld-be/templates directory
+5. created k8s ingredients deployment, service, ingress for backend
