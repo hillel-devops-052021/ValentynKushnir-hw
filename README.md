@@ -33,4 +33,4 @@ k8s hometask-02 milestones:
 6. copied frontend manifests under realworld-fe/templates directory
 7. created k8s ingredients deployment, service, ingress for frontend
 8. added backend and frontend dependencies in Chart.yaml file
-
+9. removed automatically added .tgz archives
