@@ -35,3 +35,5 @@ k8s hometask-02 milestones:
 8. added backend and frontend dependencies in Chart.yaml file
 9. removed automatically added .tgz archives
 10.added dependency on mongo to backend Chart.yaml
+11.added dependency on mongo to realworld Chart.yaml
+12.rebuild dependencies of realworld Chart

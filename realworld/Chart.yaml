@@ -30,3 +30,6 @@ dependencies:
   - name: realworld-fe 
     version: 0.1.0 
     repository: file://../realworld-fe
+  - name: mongo
+    version: 0.1.0
+    repository: file://../mongo

@@ -5,5 +5,8 @@ dependencies:
 - name: realworld-fe
   repository: file://../realworld-fe
   version: 0.1.0
-digest: sha256:191c5802f8a7da07cfdfaf6a2da1585f82f380a877d6a8b340ef29d186320025
-generated: "2021-09-10T21:51:13.923184+03:00"
+- name: mongo
+  repository: file://../mongo
+  version: 0.1.0
+digest: sha256:f58b58570b2d3200655bd3742d303759eb83a61bb383a105813ec23bfa4af26d
+generated: "2021-09-11T00:12:04.622857+03:00"
