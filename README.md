@@ -1,6 +1,6 @@
 # valetnynkushnir-hw
 
-k8s hometask milestones:
+k8s hometask-01 milestones:
 1. installed Hyper-Kit on my MacOS computer
 2. installed the latest kubectl (version 1.21.2)
 3. spinned up two clusters ("first-cluster" and "second-cluster")
@@ -23,3 +23,20 @@ k8s hometask milestones:
 19.added ingresses manifests for FE and BE, and created ingresses themselves
 20.added service,deployment and ingress for mongo admin access
 21.changed API_ROOT to read from environment varialbe
+
+k8s hometask-02 milestones:
+1. installed ingress and csi addons
+2. copied mongo manifests under mongo/templates directory
+3. created k8s ingredients pv, pvs, pods for mongo, upgraded release
+4. copied backend manifests under realworld-be/templates directory
+5. created k8s ingredients deployment, service, ingress for backend
+6. copied frontend manifests under realworld-fe/templates directory
+7. created k8s ingredients deployment, service, ingress for frontend
+8. added backend and frontend dependencies in Chart.yaml file
+9. removed automatically added .tgz archives
+10.added dependency on mongo to backend Chart.yaml
+11.added dependency on mongo to realworld Chart.yaml
+12.rebuild dependencies of realworld Chart
+13.rerun whole application using the single realworld chart
+14.added value.yml file to root
+15.rebuild help chart from the root
